@@ -13,7 +13,7 @@
 .box1{
     background-color: blanchedalmond;
     width: 31%;
-    height: 100%;
+    height: auto;
     margin: 10px;
     display: flex;
     flex-direction: column;
@@ -23,7 +23,7 @@
 .box2{
     background-color: rgb(12, 53, 30);
     width: 31%;
-    height: 100%;
+    height: auto;
     margin: 10px;
     display: flex;
     flex-direction: column;
