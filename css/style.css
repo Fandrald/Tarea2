@@ -1,0 +1,67 @@
+.principal{
+
+    background-color: rgb(173, 111, 29);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border: 5px solid green;
+
+
+}
+
+.box1{
+    background-color: blanchedalmond;
+    width: 31%;
+    height: 100%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box2{
+    background-color: rgb(12, 53, 30);
+    width: 31%;
+    height: 100%;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.box3{
+    background-color: rgb(92, 15, 79);
+    width: 31%;
+    height: auto;
+    margin: 10px;
+
+}
+
+.horizontal{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.vertical{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.cuadrado{
+    background-color: black;
+    border: 3px solid red;
+    width: 30%;
+    height: 250px;
+    margin: 10px;
+}
+
+.rectangulo{
+    background-color: blueviolet;
+    border: solid red;
+    width: 92%;
+    height: 100px;
+    margin: 3%;
+}
